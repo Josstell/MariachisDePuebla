@@ -253,7 +253,7 @@ nav.navegacion-principal a:last-child{
   color: #fe4918;
 }
 nav.navegacion-principal a:last-child:hover{
-  color: #ffffbf;
+  color: #ffffff;
 }
 @media only screen and (min-width:768px){
   nav.navegacion-principal{
